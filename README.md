@@ -50,7 +50,7 @@ local url="https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=$e
 To run the script, simply use:
 
 ```bash
-./pronunciation_fetcher.sh
+./toddler-fetch.sh
 ```
 
 Then, press any letter key to hear its pronunciation. Press 'Ctrl+C' to exit the script.
